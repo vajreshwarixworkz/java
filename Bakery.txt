@@ -1,0 +1,6 @@
+class Bakery{
+public static void cake()
+{
+System.out.println("running cake in Bakery");
+}
+}
